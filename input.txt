@@ -1,0 +1,27 @@
+void main() {
+double x = 0;
+
+while(x<10){
+x++;
+int z;
+}
+
+char ch = 0;
+
+int a[1240];
+
+a[0]=0;
+
+double d = 12.546;
+
+
+float d;
+
+d = 148.11 ;
+
+int s = 148e104 ;
+
+d--;
+
+d-1;
+}
